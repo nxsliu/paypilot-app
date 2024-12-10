@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>75325593229-6pi79tmg8t69q0j5ssst4t5t4nu9g0s9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.75325593229-6pi79tmg8t69q0j5ssst4t5t4nu9g0s9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAL5pkxzTo0mylPhX2zQvTS--DP8e_-q6A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>75325593229</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.paypilot.ios</string>
+	<key>PROJECT_ID</key>
+	<string>paypilot-prod</string>
+	<key>STORAGE_BUCKET</key>
+	<string>paypilot-prod.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:75325593229:ios:634c54a7acb464e5a974c4</string>
+</dict>
+</plist>

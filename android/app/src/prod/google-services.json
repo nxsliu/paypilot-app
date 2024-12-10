@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "75325593229",
+    "project_id": "paypilot-prod",
+    "storage_bucket": "paypilot-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75325593229:android:bd848d1d701df1e3a974c4",
+        "android_client_info": {
+          "package_name": "io.paypilot.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75325593229-utqgt08ir3729rvdqmkd54bkvaiqshhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMetfdNzqb1ollaGgKDY4iX8OFxvC2z4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75325593229-utqgt08ir3729rvdqmkd54bkvaiqshhd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "75325593229-6pi79tmg8t69q0j5ssst4t5t4nu9g0s9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.paypilot.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
